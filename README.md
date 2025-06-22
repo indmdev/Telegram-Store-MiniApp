@@ -8,11 +8,10 @@ Admin panel:
 
 ![image](https://github.com/user-attachments/assets/f6a3e580-bae6-45a6-9e3e-ccb988dfdea4)
 
-**🚀 Key Features:
-**
-✅ Production Ready - Fully functional code
-✅ Responsive Design - Works on all devices
-✅ Secure - SQL injection protection, XSS prevention
-✅ Fast - Optimized database queries
-✅ Modern UI - Contemporary design with animations
-✅ Easy Setup - Clear installation instructions
+🚀 Key Features:
+    ✅ Production Ready - Fully functional code
+    ✅ Responsive Design - Works on all devices
+    ✅ Secure - SQL injection protection, XSS prevention
+    ✅ Fast - Optimized database queries
+    ✅ Modern UI - Contemporary design with animations
+    ✅ Easy Setup - Clear installation instructions
