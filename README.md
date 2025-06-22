@@ -10,9 +10,31 @@ Admin panel:
 
 # 🚀 Key Features:
 
-    ✅ Production Ready - Fully functional code.
-    ✅ Responsive Design - Works on all devices.
-    ✅ Secure - SQL injection protection, XSS prevention.
-    ✅ Fast - Optimized database queries.
-    ✅ Modern UI - Contemporary design with animations.
-    ✅ Easy Setup - Clear installation instructions.
+    # Frontend (Telegram Mini App)
+    
+    Beautiful, responsive design with modern UI/UX
+    Product catalog with categories and search
+    Shopping cart functionality
+    Telegram Web App integration
+    Mobile-optimized interface
+    
+    # Backend (PHP + MySQL)
+    
+    RESTful API endpoints for products and orders
+    Secure database operations with PDO
+    Admin authentication system
+    Order management system
+    
+    # Admin Panel
+    Dashboard with statistics
+    Product management
+    Order tracking
+    Secure login system
+    
+    # Database
+    Complete MySQL schema
+    Sample product data
+    Optimized with proper indexes
+    Secure table relationships
+
+https://t.me/InDMDevBots
