@@ -2,6 +2,7 @@
 Beautiful Telegram Store MiniApp by InDMDev Teams, the best Telegram Shop MiniApp everyone is using.
 This telegram mini app is designed for speed, simplicity, and scalability.
 
+
 # Test: https://t.me/indmdevminiappbot
 
 # Store Front
