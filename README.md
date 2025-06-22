@@ -3,7 +3,7 @@ Beautiful Telegram Store MiniApp by InDMDev Teams, the best Telegram Shop MiniAp
 
 # Test: https://t.me/indmdevminiappbot
 
-![image](https://github.com/user-attachments/assets/32791a24-26fe-4b0a-aa73-cc4b0cf9a8a7)
+![image](https://github.com/user-attachments/assets/8237ac84-c188-4ca5-a563-fc857ef1d4da)
 
 
 Admin panel:
