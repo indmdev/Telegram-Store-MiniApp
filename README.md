@@ -10,6 +10,10 @@ Admin panel:
 
 ![image](https://github.com/user-attachments/assets/f6a3e580-bae6-45a6-9e3e-ccb988dfdea4)
 
+
+![image](https://github.com/user-attachments/assets/f6221682-2714-4201-a5b8-3a19c0d67c00)
+
+
 # 🚀 Key Features:
 
     # Frontend (Telegram Mini App)
@@ -30,11 +34,15 @@ Admin panel:
     Product management
     Order tracking
     Secure login system
-    
+
     # Database
     Complete MySQL schema
     Sample product data
     Optimized with proper indexes
     Secure table relationships
 
-https://t.me/InDMDevBots
+    # Payment Methods
+    Crypto
+    Customised (Accept any payment method)
+
+# Channel: https://t.me/InDMDevBots
