@@ -11,7 +11,6 @@ Admin panel:
 # 🚀 Key Features:
 
     # Frontend (Telegram Mini App)
-    
     Beautiful, responsive design with modern UI/UX
     Product catalog with categories and search
     Shopping cart functionality
@@ -19,7 +18,6 @@ Admin panel:
     Mobile-optimized interface
     
     # Backend (PHP + MySQL)
-    
     RESTful API endpoints for products and orders
     Secure database operations with PDO
     Admin authentication system
