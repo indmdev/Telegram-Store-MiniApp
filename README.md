@@ -1,4 +1,4 @@
-# 🤖 Telegram-Store-MiniApp
+![1](https://github.com/user-attachments/assets/9dd70b7b-92d6-45d4-ba2f-28b18dca5a4f)# 🤖 Telegram-Store-MiniApp
 Beautiful Telegram Store MiniApp by InDMDev Teams, the best Telegram Shop MiniApp every seller should have. 
 
 # Test the Telegram MiniApp: https://t.me/indmdevminiappbot
@@ -9,13 +9,22 @@ Beautiful Telegram Store MiniApp by InDMDev Teams, the best Telegram Shop MiniAp
 
 ![0](https://github.com/user-attachments/assets/19103e28-7789-41b5-b67c-5a200c9eb004)
 
+![1](https://github.com/user-attachments/assets/fb557104-69de-418f-91b5-66b51d45f505)
 
+![2](https://github.com/user-attachments/assets/b0c46741-e443-43d0-8f09-c39528d0c3f2)
+
+![3](https://github.com/user-attachments/assets/0947ba1e-c304-4d55-ad99-08a79e24f3ff)
+
+![4](https://github.com/user-attachments/assets/5d2b8be5-6ed4-4ce0-8746-5b371f4746f4)
+
+![5](https://github.com/user-attachments/assets/8de61f33-10af-4d79-9dd1-f1f119dcaaee)
 
 # Admin Panel:
-![image](https://github.com/user-attachments/assets/f6a3e580-bae6-45a6-9e3e-ccb988dfdea4)
 
+![6](https://github.com/user-attachments/assets/2c42a88e-71b9-4acb-8e92-a910bf02d825)
 
-![image](https://github.com/user-attachments/assets/f6221682-2714-4201-a5b8-3a19c0d67c00)
+![7](https://github.com/user-attachments/assets/41865fbc-a607-4c47-852e-c7d119ff3549)
+
 
 
 # 🚀 Key Features:
