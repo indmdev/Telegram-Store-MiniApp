@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/9dd70b7b-92d6-45d4-ba2f-28b18dca5a4f)# 🤖 Telegram-Store-MiniApp
+# 🤖 Telegram-Store-MiniApp
 Beautiful Telegram Store MiniApp by InDMDev Teams, the best Telegram Shop MiniApp every seller should have. 
 
 # Test the Telegram MiniApp: https://t.me/indmdevminiappbot
