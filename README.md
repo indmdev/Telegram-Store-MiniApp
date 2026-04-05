@@ -1,4 +1,5 @@
 # 🤖 Telegram-Store-MiniApp
+
 Beautiful Telegram Store MiniApp by InDMDev Teams, the best Telegram Shop MiniApp every seller should have. 
 
 Telegram Mini Apps are web-based applications that operate directly within the Telegram interface, ensuring a seamless and consistent user experience.
