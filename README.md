@@ -15,9 +15,9 @@ They can leverage a wide range of built-in capabilities, including effortless us
 ![SQLite](https://img.shields.io/badge/database-SQLite%20%7C%20PostgreSQL-003B57?logo=sqlite&logoColor=white)
 ![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-555)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![License: PHP](https://shields.io)](https://www.php.net/license/index.php)
-[![Database: PostgreSQL](https://shields.io)](https://www.postgresql.org/)
-[![License: PostgreSQL](https://shields.io)](https://opensource.org)
+![License: PHP](https://shields.io)(https://www.php.net/license/index.php)
+![Database: PostgreSQL](https://shields.io)(https://www.postgresql.org/)
+![License: PostgreSQL](https://shields.io)(https://opensource.org)
 
 # Store Front
 
