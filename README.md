@@ -9,6 +9,16 @@ They can leverage a wide range of built-in capabilities, including effortless us
 
 # How To Setup: https://www.youtube.com/watch?v=3cNMdYabip4
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-20.7-26A5E4?logo=telegram&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/database-SQLite%20%7C%20PostgreSQL-003B57?logo=sqlite&logoColor=white)
+![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-555)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: PHP](https://shields.io)](https://www.php.net/license/index.php)
+[![Database: PostgreSQL](https://shields.io)](https://www.postgresql.org/)
+[![License: PostgreSQL](https://shields.io)](https://opensource.org)
+
 # Store Front
 
 ![0](https://github.com/user-attachments/assets/19103e28-7789-41b5-b67c-5a200c9eb004)
